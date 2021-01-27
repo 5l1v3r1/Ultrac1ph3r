@@ -4,6 +4,7 @@ Do You Want To Encode Your Text String With Multiple Ciphers? Then You're In The
 This Tool Uses 6 Layer Of Cipher To Encode Your Strings
 # Usage 
 ```
+# chmod +x ultrac1ph3rexec
 # ./ultrac1ph3rexec 
 UltraC1ph3r v1.0.0
 format (encode) : ./ultrac1ph3r -e "stringyouwanttoencode"
